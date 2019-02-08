@@ -28,6 +28,9 @@ public class JavaIF {
         else 
             System.out.println("Ud. es menor de Edad !");
         // Hola Mundo
+        System.out.printIn("Cual es tu nombre ");
+        String Nombre = Nomb.nextLine();
+        System.out
         
     }
 }
